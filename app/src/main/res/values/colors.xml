@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lime_200">#FFAEEA00</color>   <!-- light lime green -->
+    <color name="lime_500">#FFCDDC39</color>   <!-- medium lime green -->
+    <color name="lime_700">#FF9E9D24</color>   <!-- dark lime green -->
+    <color name="teal_200">#FF03DAC5</color>   <!-- keep existing -->
+    <color name="teal_700">#FF018786</color>   <!-- keep existing -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
